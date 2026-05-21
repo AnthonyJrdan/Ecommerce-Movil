@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633617409100",
+    "project_id": "ecommerce-ccccc",
+    "storage_bucket": "ecommerce-ccccc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633617409100:android:3d74e0178e47bc797980e9",
+        "android_client_info": {
+          "package_name": "pe.edu.idat.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzvtG1U8P1QYdneDDdylZBzA4agP10PBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
